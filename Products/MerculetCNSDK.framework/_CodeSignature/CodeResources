@@ -16,13 +16,17 @@
 		<data>
 		dJXS+OoUmrokENDpUVHHjNQgaM0=
 		</data>
-		<key>Headers/MerculetSDK.h</key>
+		<key>Headers/MerculetCNSDK.h</key>
 		<data>
-		F31QD10BAkNmGETF16ROVUfiPUY=
+		ovexZulLCYwTInr0VQkzxn+QxDg=
 		</data>
 		<key>Info.plist</key>
 		<data>
 		xd4G8ffYYt4cWWrYGG3+hcCvnCg=
+		</data>
+		<key>Modules/module.modulemap</key>
+		<data>
+		zzuBZeaDwG9bVi8wyYCFZy2FcWQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -60,15 +64,26 @@
 			5cKDoxZeArsirpqlKunkEpVRso3C+npqJ2NVQ8ViQMM=
 			</data>
 		</dict>
-		<key>Headers/MerculetSDK.h</key>
+		<key>Headers/MerculetCNSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			F31QD10BAkNmGETF16ROVUfiPUY=
+			ovexZulLCYwTInr0VQkzxn+QxDg=
 			</data>
 			<key>hash2</key>
 			<data>
-			8CvoGM0czXddGkY3goBWQOqhN6xUOqITZUpkFQE379E=
+			Ib5BfbIRjR1pNosL6Al0oZt1C7pvk8JKmiNBoJZhqbQ=
+			</data>
+		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zzuBZeaDwG9bVi8wyYCFZy2FcWQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			Haa0IqO+3CnvvvgMIOq6k+VmgYgLxVnvI5V6jX43Fec=
 			</data>
 		</dict>
 	</dict>
