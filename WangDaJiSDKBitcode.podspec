@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
 s.name         = "WangDaJiSDKBitcode"
-s.version      = "1.1.4"
+s.version      = "1.1.43"
 s.summary      = "MerculetCNSDKBitcode for Cocoapods convenience."
 s.homepage     = "https://open.merculet.cn/"
 s.license      = "MIT"
 s.author       = { "MagicWindow" => "support@magicwindow.cn" }
-s.source       = { :git => "https://github.com/Merculet/UAViOSSDK.git", :tag => s.version }
+s.source       = { :git => "https://github.com/wangweilucky/MerculetSDKTest.git", :tag => s.version }
 s.platform     = :ios
 s.ios.deployment_target = "8.0"
 s.requires_arc = true
